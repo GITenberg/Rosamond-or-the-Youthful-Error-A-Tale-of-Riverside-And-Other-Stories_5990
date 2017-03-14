@@ -1,5 +1,8 @@
 _repo: Rosamond-or-the-Youthful-Error-A-Tale-of-Riverside-And-Other-Stories_5990
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holmes, Mary Jane
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: http://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5990#Rosamond-or-the-Youthful-Error-A-Tale-of-Riverside-And-Other-Stories
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
