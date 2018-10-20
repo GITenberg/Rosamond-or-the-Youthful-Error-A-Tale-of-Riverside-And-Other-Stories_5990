@@ -1,5 +1,5 @@
 _repo: Rosamond-or-the-Youthful-Error-A-Tale-of-Riverside-And-Other-Stories_5990
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Fiction'
+- GITenberg
 tableOfContents: Rosamond -- Diamonds -- Bad spelling -- Maggie Lee -- The answered
   prayer.
 title: 'Rosamond, or, the Youthful Error: A Tale of Riverside; And Other Stories'
